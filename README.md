@@ -1,3 +1,4 @@
+
 # FoodFlow IQ
 
 **From every order to smarter delivery decisions.**
@@ -342,3 +343,7 @@ Backend tests cover ETL, schema detection, sales/RFM/restaurant analytics, and M
 2. **Dataset-agnostic.** Analytics consume *roles*, not a fixed spreadsheet.
 3. **Transparent ML.** Churn labels and forecast model choice are explained; metrics are shown, not only a chart.
 4. **Recommendations from numbers.** Copy always cites a computed threshold or ranking.
+
+#Food flow-iq<br>
+-An analysis and prediction application for the restaurants<br>
+Thank you for reading :)
