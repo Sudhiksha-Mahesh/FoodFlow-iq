@@ -1,0 +1,13 @@
+order_id,order_date,order_time,customer_id,customer_age,customer_gender,customer_city,customer_area,customer_type,restaurant_id,restaurant_name,cuisine,food_category,food_item,quantity,unit_price,subtotal,discount,payment_method,order_status
+ORD1001,2026-01-03,19:20:00,CUST0101,28,Female,Bengaluru,Indiranagar,New,REST001,Green Bowl,Biryani,Biryani,Chicken Biryani,2,179.00,358.00,25.00,UPI,Delivered
+ORD1002,2026-01-04,12:45:00,CUST0102,33,Male,Chennai,T Nagar,Regular,REST002,Spice Hub,South Indian,South Indian,Masala Dosa,1,120.00,120.00,0.00,Cash,Delivered
+ORD1003,2026-01-05,20:10:00,CUST0103,41,Female,Coimbatore,Race Course,Premium,REST003,North Point,North Indian,North Indian,Paneer Tikka,2,260.00,520.00,30.00,Debit Card,Delivered
+ORD1004,2026-01-06,18:30:00,CUST0104,24,Male,Hyderabad,Madhapur,New,REST004,Pizza Corner,Italian,Italian,Margherita Pizza,1,299.00,299.00,20.00,Credit Card,Delivered
+ORD1005,2026-01-07,13:15:00,CUST0105,36,Female,Delhi,Saket,Regular,REST005,Wrap Street,Fast Food,Fast Food,Burger Combo,3,180.00,540.00,45.00,Wallet,Delivered
+ORD1006,2026-01-08,21:00:00,CUST0106,29,Other,Mumbai,Bandra,New,REST006,Blaze Grill,Chinese,Chinese,Chilli Chicken,2,210.00,420.00,0.00,UPI,Cancelled
+ORD1007,2026-01-09,15:40:00,CUST0107,44,Male,Bengaluru,Jayanagar,Premium,REST007,Fresh Table,Healthy,Healthy,Salad Bowl,1,230.00,230.00,15.00,Debit Card,Delivered
+ORD1008,2026-01-10,20:55:00,CUST0108,31,Female,Coimbatore,Gandhipuram,Regular,REST008,Southern Spice,South Indian,South Indian,Filter Coffee,2,80.00,160.00,10.00,Cash,Delivered
+ORD1009,2026-01-11,18:05:00,CUST0109,26,Male,Delhi,Connaught Place,Regular,REST009,Italian House,Italian,Italian,Garlic Bread,1,150.00,150.00,0.00,Credit Card,Delivered
+ORD1010,2026-01-12,12:50:00,CUST0110,39,Female,Chennai,Adyar,Premium,REST010,Desert Zone,Desserts,Desserts,Gulab Jamun,4,90.00,360.00,25.00,Wallet,Delivered
+ORD1011,2026-01-13,17:35:00,CUST0111,45,Male,Mumbai,Andheri,Regular,REST011,Continental Corner,Continental,Continental,Caesar Salad,1,260.00,260.00,10.00,UPI,Delivered
+ORD1012,2026-01-14,22:15:00,CUST0112,27,Female,Hyderabad,Kondapur,New,REST012,Hot Wok,Chinese,Chinese,Noodles,2,175.00,350.00,20.00,Cash,Failed

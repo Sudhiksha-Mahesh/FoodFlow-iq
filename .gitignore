@@ -1,0 +1,19 @@
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/foodflow.db
+backend/storage/
+backend/.pytest_cache/
+*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Env
+.env
+
+# OS
+.DS_Store
